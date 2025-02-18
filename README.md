@@ -16,7 +16,7 @@ This is a basic weather app built with HTML, CSS, and JavaScript that fetches re
     *   Obtain your API key from your account dashboard.
 
 2.  **Set Up the Project:**
-    *   Clone this repository: `git clone https://github.com/your-username/weather-app.git`
+    *   Clone this repository: `git clone https://github.com/Raju53/weather-app.git`
 
 3.  **Run the App:**
     *   Open `index.html` in your web browser.
